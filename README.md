@@ -1,1 +1,3 @@
+theme: minimal
+
 # CV
