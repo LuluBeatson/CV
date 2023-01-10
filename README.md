@@ -7,7 +7,7 @@ _16 JUN 2021 - 20 OCT 2022, AI MODULES & SMART OMIX, REMOTE_
 - Classify voice pathologies in audio using signal processing, random forests and CNNs
 - Extract data from PDF medical records using OCR, NLP and medical vocabularies
 - Build data annotation tools with AWS Sagemaker & VGG Image Annotator
-- Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([1](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
+- Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at 2022 ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([1](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
 
 **Health Data Insight** / ML Intern  
 _6 JUL - 28 AUG 2020, SYNTHETIC DATA SERVICE, REMOTE_
@@ -48,3 +48,24 @@ Cloud computing: GCP (Compute, Storage, Healthcare), AWS (S3, Medical, Sagemaker
 
 **University of Cambridge** / BA (Hons) Mathematics  
 _OCT 2017 - SEPT 2021 , MURRAY EDWARDS COLLEGE, CAMBRIDGE_
+
+
+***
+# Hobby Projects
+
+**Manhattan Urban Forest** / Python + Pandas  
+_DEC 2022,  [GITHUB PAGES](https://lulubeatson.github.io/ManhattanUrbanForest/)_
+- Entry into a DataCamp competition (still being judged)
+
+**Flocking** / Javascript + P5  
+_JUL 2021, [GITHUB PAGES](https://lulubeatson.github.io/LearningJS/Flocking/)_
+- Interactive predator-prey boids simulation which runs in the browser
+- Based on this [video](https://youtu.be/mhjuuHl6qHM) by _The Coding Train_ with my addition of: 
+    - Boid-mouse attraction
+    - Click to add new food, prey, predator 
+
+**Curve on a Sphere** / Blender  
+_JAN 2021, [YOUTUBE](https://youtu.be/pcaJd65We6o)_
+- Animated curve being painted on a glass sphere using procedual textures
+- Recorded sound effects
+- Inspired by an example sheet question from Part 1A Vector Calculus
