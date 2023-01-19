@@ -2,12 +2,19 @@
 ***
 # Experience
 
-**doc.ai** / Junior Data Engineer  
-_16 JUN 2021 - 20 OCT 2022, AI MODULES & SMART OMIX, REMOTE_
-- Classify voice pathologies in audio using signal processing, random forests and CNNs
-- Extract data from PDF medical records using OCR, NLP and medical vocabularies
-- Build data annotation tools with AWS Sagemaker & VGG Image Annotator
-- Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at 2022 ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([1](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
+**doc.ai** / Data & AI Engineer  
+_16 JUN 2021 - 20 OCT 2022, AI MODULES, REMOTE_
+- Digital Biomarker AI for Myasthenia Gravis:
+    - Build audio feature extraction pipeline using signal processing
+    - Standardise ML experiment tracking and evaluation using MLFlow and Sklearn
+    - Train random forest, SVM and CNN models
+    - Build data annotation pipelines with AWS
+- PDF Data Extraction Pipeline:
+    - Extract entities from PDFs into CSVs using image processing, OCR, NLP
+    - Transform between CSV and PDF annotations for human-in-the-loop learning
+- Medication Recognition REST API:
+    - Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at 2022 ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([1](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
+    - Build user feedback mechanism for REST API with Golang, SQL and yoyo
 
 **Health Data Insight** / ML Intern  
 _6 JUL - 28 AUG 2020, SYNTHETIC DATA SERVICE, REMOTE_
@@ -55,12 +62,14 @@ _OCT 2017 - SEPT 2021 , MURRAY EDWARDS COLLEGE, CAMBRIDGE_
 
 **Manhattan Urban Forest** / Python + Pandas  
 _DEC 2022,  [GITHUB PAGES](https://lulubeatson.github.io/ManhattanUrbanForest/)_
-- Entry into a DataCamp competition (still being judged)
+- Awarded 5th among over 1k participants in data science competition
+- Exploring and drawing recommendations from New York tree census data
 
 **Flocking** / Javascript + P5  
 _JUL 2021, [GITHUB PAGES](https://lulubeatson.github.io/LearningJS/Flocking/)_
 - Interactive predator-prey boids simulation which runs in the browser
 - Based on this [video](https://youtu.be/mhjuuHl6qHM) by _The Coding Train_ with my addition of: 
+    - Predator and food objects and interactions
     - Boid-mouse attraction
     - Click to add new food, prey, predator 
 
