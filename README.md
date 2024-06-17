@@ -1,6 +1,9 @@
+<hr>
 
-***
 # Experience
+
+**Stealth Startup** / Engineer  
+_1 JUN 2023 - PRESENT, LONDON_
 
 **doc.ai** / Data & AI Engineer  
 _16 JUN 2021 - 20 OCT 2022, AI MODULES, REMOTE_
@@ -9,11 +12,12 @@ _16 JUN 2021 - 20 OCT 2022, AI MODULES, REMOTE_
     - Standardise ML experiment tracking and evaluation using MLFlow and Sklearn
     - Train random forest, SVM and CNN models
     - Build data annotation pipelines with AWS
+    - Co-author paper for Digital Biomarkers ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399113/))
 - PDF Data Extraction Pipeline:
     - Extract entities from PDFs into CSVs using image processing, OCR, NLP
     - Transform between CSV and PDF annotations for human-in-the-loop learning
 - Medication Recognition REST API:
-    - Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at 2022 ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([1](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
+    - Design information retrieval algorithm to match OCR, NLP results to a graphically structured database with paper accepted at 2022 ICML Workshop on _Interpretable Machine Learning in Healthcare_ ([2](http://github.com/interpretable-ml-in-healthcare/IMLH2022/blob/main/29%5CCameraReady%5CPupill_ICML_2022_camera_ready.pdf))
     - Build user feedback mechanism for REST API with Golang, SQL and yoyo
 
 **Health Data Insight** / ML Intern  
@@ -38,26 +42,28 @@ _NOV 2015 - APR 2016, YORK_
 - Present work at event held at Sheffield University
 
 
+<hr>
 
-***
 # Tech
 
-Data analysis: Python, Pandas, Scikit-Learn  
-Data annotation: AWS Sagemaker, VGG Image Annotator  
+Data analysis: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Numpy, SQL, Excel  
+Data annotation: AWS Sagemaker, VGG Image Annotator, Label Studio  
 Machine learning: Python, Tensorflow, Keras, Golang, Docker, Kubernetes  
 Version control: GitHub, MLFlow  
 Cloud computing: GCP (Compute, Storage, Healthcare), AWS (S3, Medical, Sagemaker, Lambda)
+Prototyping: Gradio, FastAPI, Balsamiq, Langchain, LlamaIndex, Javascript, Bootstrap
 
 
+<hr>
 
-***
 # Education
 
 **University of Cambridge** / BA (Hons) Mathematics  
 _OCT 2017 - SEPT 2021 , MURRAY EDWARDS COLLEGE, CAMBRIDGE_
 
 
-***
+<hr>
+
 # Hobby Projects
 
 **Manhattan Urban Forest** / Python + Pandas  
